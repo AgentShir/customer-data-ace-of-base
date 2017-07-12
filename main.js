@@ -1,7 +1,7 @@
 let container = document.querySelector('.container')
 
-let htmlString = `<>`
+let htmlString = `<article>`
+  htmlString += `</article>`
 
-htmlString += `</>`
 
 container.innerHTML= htmlString
