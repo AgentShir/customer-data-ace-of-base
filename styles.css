@@ -9,29 +9,33 @@ body {
 }
 
 img {
-  max-width: 100%;
+    max-width: 100%;
 }
 
-h2 {
-
+h2 { color: black;
+    text-transform: uppercase;
 }
 
 name {
+    text-transform: uppercase;
 
 }
 
 email {
+    text-transform: uppercase;
 
 }
 
 .location {
+    text-align: center;
 
 }
 
 .location .street {
+    text-align: center;
 
 }
 
 phone {
-
+    text-align: center;
 }
