@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+}
+
+.container {
+    background-color: white;
+    width: 800px;
+    margin: 30px;
+}
+
+img {
+  max-width: 100%;
+}
+
+h2 {
+
+}
+
+name {
+
+}
+
+email {
+
+}
+
+.location {
+
+}
+
+.location .street {
+
+}
+
+phone {
+  
+}
